@@ -8,10 +8,7 @@ export default function Footer() {
         {/* Logo and Tagline */}
         <div className="col-span-1">
           <div className="flex items-center gap-2 mb-4">
-            <img src="/skill.png" alt="PathFinder Logo" className="h-6 w-auto" />
-            <span className="text-xl md:text-2xl font-extrabold tracking-wide text-black dark:text-white">
-              PathFinder
-            </span>
+            <img src="/skill.png" alt="PathFinder Logo" className="h-15 w-auto" />
           </div>
           <p className="text-gray-600 dark:text-gray-400">
             Your AI-powered assistant for jobs, resumes, mock interviews, and beyond.
